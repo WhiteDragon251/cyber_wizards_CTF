@@ -52,11 +52,11 @@ strings ./challenge_linux | grep -i --color root
 
 Can't see anything useful in this one.
 
-![flag_grep](https://github.com/WhiteDragon251/cyber_wizards_CTF/raw/master/images/cyberwizards_grep.png)
-
 ```
 strings ./challenge_linux | grep -i --color cyberwizards
 ```
+
+![flag_grep](https://github.com/WhiteDragon251/cyber_wizards_CTF/raw/master/images/cyberwizards_grep.png)
 
 Alright, so this one took me a while (actually it took me hours to figure out, haha...) but when you look at it closely you can see it!! This must be the password we were looking for. Let's see if it works...
 
