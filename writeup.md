@@ -76,7 +76,7 @@ Alright, let's grab it using `cat`.
 
 ![cat_error](https://github.com/WhiteDragon251/cyber_wizards_CTF/raw/master/images/cat_error.png)
 
-So here comes the twist in the story! I am sure you must have noticed by now that commands like `cat`, `less`, `more`, etc. are not even there. In fact, you can't run most of the commands. Some of you might try to `reboot` or `shutdown` and will get this-
+So here comes the twist in the story! I am sure you must have noticed by now that commands like `cat`, `less`, `more`, etc. are not even there. In fact, you can't run most of the commands. Now, some of you might try to `reboot` or `shutdown` and will get this-
 
 ![shut_reboot_flag](https://github.com/WhiteDragon251/cyber_wizards_CTF/raw/master/images/shut_reboot_flag.png)
 
