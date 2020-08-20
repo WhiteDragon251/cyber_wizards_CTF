@@ -13,7 +13,7 @@
 * **Creator:** [mastardet](https://www.youtube.com/channel/UC66idcoWzeZ_AsTnYr3L37g/featured)
 * **Challenge File:** [mastardet_challenge.tar.gz](https://github.com/WhiteDragon251/cyber_wizards_CTF/raw/master/mastardet_challenge.tar.gz)
 
-Make sure you try the challenge once on your own beofre reading the writeup. You can also find **Hints** below.
+Make sure you try the challenge once on your own beofre reading the [writeup](https://github.com/WhiteDragon251/cyber_wizards_CTF/raw/master/writeup.md). You can also find **Hints** below.
 
 ---
 ---
