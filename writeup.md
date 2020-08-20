@@ -3,16 +3,7 @@
 ---
 ---
 
-## Description
 
-> mastardet, I am giving this just randomly right now, please let me know if you want me to edit this.
-> Find the flag in the binary.
-
-* **Category:** Basic Binary and Linux
-* **Creator:** [mastardet](https://www.youtube.com/channel/UC66idcoWzeZ_AsTnYr3L37g/featured)
-* **Challenge File:** [Link to the tar.gz file goes here]()
-
-Make sure you try the challenge once on your own beofre reading the writeup. You can find **hints** to the challenges at the bottom of the page.
 
 ---
 ---
