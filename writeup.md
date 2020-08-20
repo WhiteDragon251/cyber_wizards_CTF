@@ -1,4 +1,8 @@
-# Name of the Challenge
+# Mastardet Basic Binary and Linux
+
+This was one of the best challenges I have ever solved and this was created by **mastardet (he is great guy and an elite hacker)**. 
+
+If you guys wanna learn more from him, then make sure you check out his [**YouTube channel**](https://www.youtube.com/channel/UC66idcoWzeZ_AsTnYr3L37g/featured) right away, you will surely gather lot of good stuff from there! Alright, let's move towards the challenge then...
 
 ---
 ---
