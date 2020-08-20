@@ -83,7 +83,7 @@ So, when I took a look at the **HINT 4** and **HINT 5**, you will immediately un
 
 And obviously, in these situations Google is our best friend!! So I did a lot of googling and then I came across this
 
-[Googling]()
+![Googling](https://github.com/WhiteDragon251/cyber_wizards_CTF/raw/master/images/Finding%20What%20to%20do.png)
 
 So, `HISTFILE` is an **environment variable** that specifies the file for `history` command to read from. This looks interesting... So what happens when we set the `HISTFILE` to `/root/flag.txt` :)
 
