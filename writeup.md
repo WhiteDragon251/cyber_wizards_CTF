@@ -98,7 +98,7 @@ There is another command that's behaving strange. Once you have tried running al
 
 ![weird history](https://github.com/WhiteDragon251/cyber_wizards_CTF/raw/master/images/weird_history.png)
 
-So, when you took a look at the **HINT 4** and **HINT 5** given [here](https://github.com/WhiteDragon251/cyber_wizards_CTF#hints), you will immediately understand that you need to work on the `history` and the `export` command. So let's get started.
+So, when you took a look at the **HINT 4** and **HINT 5** given [here](https://whitedragon251.github.io/cyber_wizards_CTF/), you will immediately understand that you need to work on the `history` and the `export` command. So let's get started.
 
 And obviously, in these situations Google is our best friend!! So I did a lot of googling and then I came across this
 
