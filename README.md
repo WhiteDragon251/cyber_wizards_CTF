@@ -5,8 +5,6 @@
 
 ## Description
 
-> mastardet, I am giving this just randomly right now, please let me know if you want me to edit this.
-
 > Find the flag in the binary.
 
 * **Category:** Basic Binary and Linux
